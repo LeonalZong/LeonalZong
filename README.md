@@ -20,22 +20,17 @@
 | **DevOps** | Git, Docker, Nginx, CI/CD (GitHub Actions) |
 
 ---
-<!-- 语言卡片 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
-</p>
-<!-- 总览卡片 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&cache_seconds=1800" />
-</p>
-<!-- Streak（你这张已正常显示，可保留） -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true" />
-</p>
-<!-- Activity Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- 🌟 GitHub Stats -->
+![LeonalZong's GitHub stats](https://github-readme-stats-drab-ten-14.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+<!-- 🗣️ Top Languages -->
+![Top Langs](https://github-readme-stats-drab-ten-14.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight)
+
+<!-- 📦 Repo Cards -->
+[![K-box](https://github-readme-stats-drab-ten-14.vercel.app/api/pin/?username=LeonalZong&repo=Kbox&theme=tokyonight)](https://github.com/LeonalZong/Kbox)
+[![AI-Stock-Analyzer](https://github-readme-stats-drab-ten-14.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer&theme=tokyonight)](https://github.com/LeonalZong/AI-Stock-Analyzer)
+[![WakaTime stats](https://github-readme-stats-drab-ten-14.vercel.app/api/wakatime?username=LeonalZong)](https://wakatime.com/@LeonalZong)
+[![Top Langs](https://github-readme-stats-drab-ten-14.vercel.app/api/top-langs/?username=LeonalZong&layout=donut&theme=tokyonight)](https://github.com/LeonalZong)
 ---
 
 📫 **联系我 / Contact**  
