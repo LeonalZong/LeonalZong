@@ -23,14 +23,13 @@
 <!-- 🌟 GitHub Stats -->
 ![LeonalZong's GitHub stats](https://github-readme-stats-drab-ten-14.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<!-- 🗣️ Top Languages -->
-![Top Langs](https://github-readme-stats-drab-ten-14.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight)
-
-<!-- 📦 Repo Cards -->
-[![K-box](https://github-readme-stats-drab-ten-14.vercel.app/api/pin/?username=LeonalZong&repo=Kbox&theme=tokyonight)](https://github.com/LeonalZong/Kbox)
-[![AI-Stock-Analyzer](https://github-readme-stats-drab-ten-14.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer&theme=tokyonight)](https://github.com/LeonalZong/AI-Stock-Analyzer)
-[![WakaTime stats](https://github-readme-stats-drab-ten-14.vercel.app/api/wakatime?username=LeonalZong)](https://wakatime.com/@LeonalZong)
 [![Top Langs](https://github-readme-stats-drab-ten-14.vercel.app/api/top-langs/?username=LeonalZong&layout=donut&theme=tokyonight)](https://github.com/LeonalZong)
+
+<!-- 活动贡献图（Activity Graph，可选） -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true)
+
+<!-- Streak 连续贡献统计 -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeonalZong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 📫 **联系我 / Contact**  
