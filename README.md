@@ -30,20 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Pin 项目卡片（K-box） -->
-<p>
-  <a href="https://github.com/LeonalZong/Kbox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=Kbox&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<!-- Pin 项目卡片（AI-Stock-Analyzer） -->
-<p>
-  <a href="https://github.com/LeonalZong/AI-Stock-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 <!-- Streak（你这张已正常显示，可保留） -->
 <p>
   <img src="https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true" />
