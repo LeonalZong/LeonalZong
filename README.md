@@ -10,36 +10,6 @@
 
 ---
 
-🧩 **当前项目 / Featured Projects**
-
-### 💹 智能股票分析系统（AI Stock Analyzer）
-> AI 驱动的股票数据分析与趋势预测平台
-
-- **功能亮点：**  
-  - 实时获取与分析股市行情数据  
-  - 集成 OpenAI 模型进行智能分析报告生成  
-  - 结合情绪分析与技术指标实现多维预测  
-- **技术栈：**  
-  - Backend: FastAPI + LangChain + Neo4j  
-  - Frontend: React + TailwindCSS  
-  - AI: OpenAI GPT-4 / Embedding Models  
-
----
-
-### 📰 K-box 博客分享平台（Knowledge Box）
-> 为开发者与创作者打造的知识分享与发现平台
-
-- **功能亮点：**  
-  - 用户发布、分类与搜索博客  
-  - 内置 Lucene 混合推荐系统  
-  - Redis 缓存与全文检索优化  
-- **技术栈：**  
-  - Backend: Spring Boot + PostgreSQL + Redis + Lucene  
-  - Frontend: Vue 3 + Element Plus + Vite  
-  - 部署：Nginx + GitHub Actions CI/CD  
-
----
-
 🛠 **主要技术栈 / Tech Stack**  
 | 领域 | 技术 |
 |------|------|
@@ -50,9 +20,20 @@
 | **DevOps** | Git, Docker, Nginx, CI/CD (GitHub Actions) |
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=LeonalZong
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+&hide_border=true&rank_icon=percentile&card_width=460)
 
-![LeonalZong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=radical)
+[![K-box](https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=Kbox
+&theme=tokyonight&hide_border=true)](https://github.com/LeonalZong/Kbox)
 
+[![AI-Stock-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer
+&theme=tokyonight&hide_border=true)](https://github.com/LeonalZong/AI-Stock-Analyzer)
+
+![Streak](https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong
+&theme=tokyo-night&hide_border=true)
 ---
 
 📫 **联系我 / Contact**  
