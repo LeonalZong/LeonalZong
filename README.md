@@ -27,11 +27,6 @@
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/LeonalZong/LeonalZong/output/github-contribution-grid-snake-dark.svg)
 
-<!-- 活动贡献图（Activity Graph，可选） -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true)
-
-<!-- Streak 连续贡献统计 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LeonalZong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 📫 **联系我 / Contact**  
