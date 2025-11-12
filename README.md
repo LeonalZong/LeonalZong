@@ -20,21 +20,18 @@
 | **DevOps** | Git, Docker, Nginx, CI/CD (GitHub Actions) |
 
 ---
-<!-- 总览卡片 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" />
-</p>
-
 <!-- 语言卡片 -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
-
+<!-- 总览卡片 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&cache_seconds=1800" />
+</p>
 <!-- Streak（你这张已正常显示，可保留） -->
 <p>
   <img src="https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true" />
 </p>
-
 <!-- Activity Graph -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true" />
