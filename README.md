@@ -20,20 +20,39 @@
 | **DevOps** | Git, Docker, Nginx, CI/CD (GitHub Actions) |
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=LeonalZong
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
-&hide_border=true&rank_icon=percentile&card_width=460)
+<!-- 总览卡片 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" />
+</p>
 
-[![K-box](https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=Kbox
-&theme=tokyonight&hide_border=true)](https://github.com/LeonalZong/Kbox)
+<!-- 语言卡片 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonalZong&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+</p>
 
-[![AI-Stock-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer
-&theme=tokyonight&hide_border=true)](https://github.com/LeonalZong/AI-Stock-Analyzer)
+<!-- Pin 项目卡片（K-box） -->
+<p>
+  <a href="https://github.com/LeonalZong/Kbox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=Kbox&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true)
+<!-- Pin 项目卡片（AI-Stock-Analyzer） -->
+<p>
+  <a href="https://github.com/LeonalZong/AI-Stock-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonalZong&repo=AI-Stock-Analyzer&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong
-&theme=tokyo-night&hide_border=true)
+<!-- Streak（你这张已正常显示，可保留） -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=LeonalZong&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 📫 **联系我 / Contact**  
