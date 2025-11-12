@@ -25,6 +25,8 @@
 
 [![Top Langs](https://github-readme-stats-drab-ten-14.vercel.app/api/top-langs/?username=LeonalZong&layout=donut&theme=tokyonight)](https://github.com/LeonalZong)
 
+![GitHub Snake Dark](https://raw.githubusercontent.com/LeonalZong/LeonalZong/output/github-contribution-grid-snake-dark.svg)
+
 <!-- 活动贡献图（Activity Graph，可选） -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonalZong&theme=tokyo-night&hide_border=true)
 
