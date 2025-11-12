@@ -59,3 +59,5 @@
 ---
 
 ⭐️ 如果你对 AI 与开发技术感兴趣，记得点个 **Star**，关注我一起探索智能未来。
+
+![LeonalZong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonalZong&show_icons=true&theme=radical)
