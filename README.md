@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="welcome.jpeg" alt="Hello，我是宗信君，欢迎来到我的频道" width="700"/>
+  <img src="image.png" alt="Hello，我是宗信君，欢迎来到我的频道" width="700"/>
 </p>
 
 <h1 align="center">👋 Hello，我是宗信君 (Leonal Zong)</h1>
